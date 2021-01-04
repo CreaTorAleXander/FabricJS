@@ -1,6 +1,6 @@
 # Getting Started
 
-## Download fabric.js or clone repo
+## Download fabric.js
 From Here https://github.com/fabricjs/fabric.js/tree/master/dist
 
 ## Following the steps in this example
